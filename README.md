@@ -1,14 +1,8 @@
 # logorecon
-Авто распознавание дефекта звукопроизношения из аудиофайла
+Automatic recognition of sound pronunciation defects from an audio file
 
-Задача проекта:
-Создать эффективный способ определить, есть ли у человека на стандартной аудизаписи дефект звукопроизношения "Р".
+Project objective: To create an effective way to determine whether a person has a sound pronunciation defect “R” on a standard audio recording.
 
-Requirements:
-python packages:
-pydub
-numpy
+Requirements: python packages: pydub numpy
 
-exe:
-ffmpeg
-ffprobe
+exe: ffmpeg ffprobe
